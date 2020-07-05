@@ -1,4 +1,4 @@
-# aAutomate Github Project Initialize
+# Automate Github Project Initialize
 A simple script which let you create folder locally and also create repo in your Github profile adn initialise it automatically.
 steps for link : [Windows](#for-windows-users)  and [Linux](#for-linux-users) are available
 
